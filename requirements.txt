@@ -1,7 +1,7 @@
 # pip install -r requirements.txt
 
-wget https://raw.githubusercontent.com/airctic/icevision/master/install_colab.sh
-bash install_colab.sh
+!wget https://raw.githubusercontent.com/airctic/icevision/master/install_colab.sh
+!bash install_colab.sh
 
 # base ----------------------------------------
 Cython
